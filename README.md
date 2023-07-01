@@ -7,9 +7,9 @@ Grand-Password-Gen is a robust and user-friendly password generator developed us
 
 ## Screenshots
 
-![alt text](assets\images\jofel7.github.io_Grand-Password-Gen_.png)
+![App Screenshot](.\assets\images\jofel7.github.io_Grand-Password-Gen_.png)
 
-![alt text](assets\images\jofel7.github.io_Grand-Password-Gen_generated.png)
+![App Screenshot](.\assets\images\jofel7.github.io_Grand-Password-Gen_generated.png)
 
 ## Useful Links
 
